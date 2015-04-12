@@ -17,12 +17,12 @@ WIKIPEDIA API BOOK STYLE
 
 - Given the short amount of time available, this is more of a prototype than final product.
 - I used a javascript library to help me construct the page flip animation quickly; I also did not have enough time to complete this to my absolute satisfaction, though for the short time frame, I am happy with what's on the screen. 
-- I still need to edit some images, find more relevant imagery, find/create soundscapes, test with the text, re-design the timeline at the top, add style so that the images feel more like a collage.
+- I still need to edit some images, find more relevant imagery, find/create soundscapes, test with the text, re-design the timeline at the top, add style so that the images feel more like a collage and refactor the code.
 - I would also have liked to be able to focus on the responsive design so it displays properly on mobile.
 
 ##### Creators note
-	---- Even though I did lose some important Vitamin-D, it was fun exploring the possibilities for how you could better the experience of an ebook.
+	Even though I did lose some important Vitamin-D, it was fun exploring the possibilities for how you could better the experience of an ebook.
 
 # Take a look here
 
-      -  https://daisymarie128.github.io/book_wiki
+    (https://daisymarie128.github.io/book_wiki)
