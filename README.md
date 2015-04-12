@@ -21,8 +21,8 @@ WIKIPEDIA API BOOK STYLE
 - I would also have liked to be able to focus on the responsive design so it displays properly on mobile.
 
 ##### Creators note
-	Even though I did lose some important Vitamin-D, it was fun exploring the possibilities for how you could better the experience of an ebook.
+Even though I did lose some important Vitamin-D, it was fun exploring the possibilities for how you could better the experience of an ebook.
 
 # Take a look here
 
-    (https://daisymarie128.github.io/book_wiki)
+[https://daisymarie128.github.io/book_wiki](https://daisymarie128.github.io/book_wiki)
