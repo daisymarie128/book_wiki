@@ -281,6 +281,10 @@ a:hover {
 	height: 100%;
 }
 
+.contentRight img{
+	width: 80%;
+}
+
 img{
 	/*width: 100%;*/
 }
