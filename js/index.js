@@ -107,13 +107,7 @@ function addImagesToPages() {
 		width= '100%'
 	);
 
-	var mountainCloudTop3Big = $('<img>').addClass('mountainCloudTop3Big').attr('src', 'images/mountainCloudTop3Big.png').css(
-		zIndex = '1',
-		position = 'absolute'
-	);
-
 	$('.content3').append(mountain3Big);
-	$('.content3').append(mountainCloudTop3Big);
 
 	var imagePage4 = $('<img>').addClass('martinBig').attr('src', 'images/phonePage5-01.png');
 	$('.content4').append(imagePage4);
